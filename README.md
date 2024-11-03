@@ -5,7 +5,7 @@
 
 
 
-<img align="right" alt="coding" width="340" src="gif1.gif">
+<img align="right" alt="coding" width="330" src="gif1.gif">
 
 
 I am Wasifa Islam, a skilled MERN stack web developer with expertise in HTML, CSS, Tailwind CSS, React, JavaScript, Node.js, and MongoDB. I also bring strong capabilities in SEO, lead generation, ad campaign management, and social media marketing, allowing me to deliver comprehensive solutions for digital and web projects.
@@ -42,12 +42,8 @@ Skills: Tailwind / REACT / JavaScript / Node.js / MongoDB / SEO / Lead Generatio
 ### 📊 GitHub Stats:
 <div align="center">
 
-<!--
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasifaislam88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
--->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasifaislam88&theme=gotham&layout=compact" width="40%"/> 
-</p>
 
 ---
 
