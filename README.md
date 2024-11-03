@@ -1,4 +1,7 @@
-## Hi there 👋
+![A Passionate Frontend Web Developer](https://github.com/wasifaislam88/wasifaislam88/blob/main/banner.png)
+
+## Hi 👋, I'm Wasifa Islam
+### A Passionate Frontend Web Developer and SEO expert
 
 <!--
 **wasifaislam88/wasifaislam88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
