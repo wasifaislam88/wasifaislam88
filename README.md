@@ -43,25 +43,8 @@ Skills: Tailwind / REACT / JavaScript / Node.js / MongoDB / SEO / Lead Generatio
 <div align="center">
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasifaislam88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
----
-
-![](https://github-readme-stats.vercel.app/api?username=wasifaislam88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wasifaislam88&theme=dark&hide_border=false)<br/>
-
-</div>
-
----
-
-
-<div align="center">
-    <a href="https://github.com/developernahian">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasifaislam88&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
-    </a>
-</div>
-
----
 
 
 <p align="center">
@@ -73,6 +56,14 @@ Skills: Tailwind / REACT / JavaScript / Node.js / MongoDB / SEO / Lead Generatio
   </a>
 </p>
 
+
+<div align="center">
+    <a href="https://github.com/developernahian">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasifaislam88&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+    </a>
+</div>
+
+---
 
 
 
