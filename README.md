@@ -63,6 +63,5 @@ Skills: Tailwind / REACT / JavaScript / Node.js / MongoDB / SEO / Lead Generatio
 
 ---
 
-<!--
+
 ![Waves](wave.svg)
--->
