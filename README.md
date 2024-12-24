@@ -66,6 +66,10 @@ Skills: Tailwind / REACT / JavaScript / Node.js / MongoDB / SEO / Lead Generatio
 
 ---
 
+<div align="center">
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@e3bbadaf-7b83-4cee-b39a-fba45eb54172/434c51e2-f598-4e5d-8b76-e9bee413b639.png" /></a>
+</div>
+
 
 
 
